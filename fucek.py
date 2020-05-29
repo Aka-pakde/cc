@@ -5,7 +5,7 @@ from time import sleep
 
 #Jangan direkode hehe
 #coba aja mana tau beruntung yg fake jadi asli :v
-#developer @khazulyusseryshadiq
+#developer @pakde
 
 def eng():
 	jum=int(raw_input("\nAmount: "))
@@ -68,7 +68,7 @@ if __name__=="__main__":
 	os.system('clear')
 	print"""
      \033[32;5m\033[4mFree Credit Card for Amazon\033[0m
-	     \033[32;5m\033[4mBy khazul\033[0m
+	     \033[32;5m\033[4mBy pakde\033[0m
 
 	\033[33;5m\033[4mSelected country:\033[0m
 
